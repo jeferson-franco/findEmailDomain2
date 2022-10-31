@@ -1,0 +1,20 @@
+{
+    "name": "findemaildomain2",
+    "version": "1.0.0",
+    "description": "An email address such as \"John.Smith@example.com\" is made up of a local part (\"John.Smith\"), an \"@\" symbol, then a domain part (\"example.com\").",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jeferson-franco/findEmailDomain2.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jeferson-franco/findEmailDomain2/issues"
+    },
+    "homepage": "https://github.com/jeferson-franco/findEmailDomain2#readme"
+}
